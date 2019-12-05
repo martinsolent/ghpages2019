@@ -17,3 +17,8 @@ You must write & edit using [Markdown](https://guides.github.com/pdfs/markdown-c
 
 You can check to Preview mode by clicking on the Preview changes tab
 ![](images/gh_34.png)
+
+You will need to Comment any changes
+![](images/gh_9.png)
+
+![](images/gh_10.png)
