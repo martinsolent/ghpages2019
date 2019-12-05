@@ -1,4 +1,3 @@
-# Design Project
-This is my cool design project on GitHub to show how to use GitHub Pages function.
-
+# GitHub Pages Walkthrough
+How to create a basic web page with Markdown and host on GitHub with GitHub Pages.
 ![](images/gh_1.png)
