@@ -11,7 +11,7 @@ Give your new repo a name and a description, and check Initialize this repositor
 
 Your new repo will look like this. Now click the pencil icon to edit
 ![](images/gh_6.png)
-You must write & edit using Markdown https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+You must write & edit using Markdown [](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ![](images/gh_7.png)
 
